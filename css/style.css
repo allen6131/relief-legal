@@ -92,7 +92,7 @@ p {
       margin-bottom: 25px; } }
 
 h1, h2, h3, h4, h5 {
-  font-family: 'Libre Baskerville', serif;
+  font-family: 'Philosopher', serif;
   text-transform: uppercase;
   margin-top: 0;
   font-weight: 700;
@@ -1190,7 +1190,7 @@ body.bodyColor .bb-fixed-header {
     margin-right: 30px; } }
 
 .navbar-default .navbar-nav > li > a {
-  font-family: 'Libre Baskerville', serif;
+  font-family: 'Philosopher', serif;
   text-transform: capitalize;
   font-weight: 700;
   font-size: 15px;
@@ -1788,7 +1788,7 @@ body.bodyColor .bb-fixed-header {
     display: none !important; }
 
 .slide-inner1 .h3 {
-  font-family: 'Libre Baskerville', serif;
+  font-family: 'Philosopher', serif;
   font-size: 12px;
   line-height: 16px;
   color: #705923;
@@ -1810,7 +1810,7 @@ body.bodyColor .bb-fixed-header {
       line-height: 30px; } }
 
 .slide-inner1 .h1 {
-  font-family: 'Libre Baskerville', serif;
+  font-family: 'Philosopher', serif;
   font-size: 25px;
   line-height: 25px;
   color: #ffffff;
@@ -1905,7 +1905,7 @@ body.bodyColor .bb-fixed-header {
       padding: 40px 50px; } }
 
 .main-slider .common-inner .h3 {
-  font-family: 'Libre Baskerville', serif;
+  font-family: 'Philosopher', serif;
   font-size: 12px;
   line-height: 14px;
   color: #705923;
@@ -1922,7 +1922,7 @@ body.bodyColor .bb-fixed-header {
       line-height: 20px; } }
 
 .main-slider .common-inner .h2 {
-  font-family: 'Libre Baskerville', serif;
+  font-family: 'Philosopher', serif;
   font-size: 20px;
   line-height: 20px;
   color: #ffffff;
@@ -2030,7 +2030,7 @@ footer {
   .footerTop-inner .list-inline li {
     margin: 0 13px; }
     .footerTop-inner .list-inline li > a {
-      font-family: 'Libre Baskerville', serif;
+      font-family: 'Philosopher', serif;
       text-transform: capitalize;
       font-weight: 700;
       font-size: 12px;
@@ -2288,7 +2288,7 @@ footer {
   padding-top: 25px; }
 
 .lawInfo span {
-  font-family: 'Libre Baskerville', serif;
+  font-family: 'Philosopher', serif;
   font-size: 15px;
   font-weight: 700;
   text-transform: uppercase;
@@ -3447,7 +3447,7 @@ footer {
     .isotopeFilters ul.filter > li {
       margin: 0 15px; } }
   .isotopeFilters ul.filter > li a {
-    font-family: 'Libre Baskerville', serif;
+    font-family: 'Philosopher', serif;
     padding: 0 0 10px;
     font-size: 12px;
     color: #222222;
@@ -3664,7 +3664,7 @@ footer {
     color: #705923; }
 
 .tag span {
-  font-family: 'Libre Baskerville', serif;
+  font-family: 'Philosopher', serif;
   text-transform: uppercase;
   font-size: 15px;
   font-weight: 700;

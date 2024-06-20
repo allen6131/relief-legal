@@ -1178,7 +1178,7 @@ body.bodyColor .bb-fixed-header {
   @media (min-width: 768px) {
     .navbar-brand {
       height: auto;
-      padding: 30px 15px;
+      padding: 30px 2px;
       width: 234px; } }
 
 @media (min-width: 768px) {

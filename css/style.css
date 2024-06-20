@@ -415,7 +415,7 @@ body.bodyColor .bb-fixed-header {
 .btn-secondary {
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
-  background-color: #515b78; }
+  background-color: #705923; }
   .btn-secondary > i {
     margin-right: 10px; }
   .btn-secondary:hover {
@@ -532,12 +532,12 @@ body.bodyColor .bb-fixed-header {
     background-color: #f5f5f5; }
 
 .btn-dark {
-  background-color: #515b78;
-  border-color: #515b78;
+  background-color: #705923;
+  border-color: #705923;
   color: #ffffff; }
   .btn-dark:focus, .btn-dark.active, .btn-dark:active, .btn-dark:hover {
-    background-color: #515b78;
-    border-color: #515b78;
+    background-color: #705923;
+    border-color: #705923;
     color: #ffffff; }
 
 .btn-full-round {
@@ -1110,7 +1110,7 @@ body.bodyColor .bb-fixed-header {
 .top-info-bar {
   display: block;
   z-index: 100;
-  background-color: #515b78;
+  background-color: #705923;
   height: 35px;
   position: relative;
   top: 0;
@@ -2937,7 +2937,7 @@ footer {
   .block > h3 {
     margin: 0;
     padding: 15px;
-    background: #515b78;
+    background: #705923;
     text-transform: capitalize;
     color: #ffffff; }
   .block .block-inner {
@@ -3732,7 +3732,7 @@ footer {
 .priceUper {
   color: #ffffff;
   padding: 25px 0;
-  background: #515b78;
+  background: #705923;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out; }
   .priceUper h5 {
@@ -3919,7 +3919,7 @@ footer {
         display: block;
         margin-bottom: 25px;
         border-radius: 100%;
-        background-color: #515b78;
+        background-color: #705923;
         width: 45px;
         height: 45px;
         line-height: 45px;

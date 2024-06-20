@@ -675,6 +675,27 @@
     <script src="plugins/smoothscroll/SmoothScroll.min.js"></script>
     <script src="plugins/google-custom-map/google-map.js"></script>
     <script src="js/custom.js"></script>
+
+    <script>
+      // Check if jQuery is loaded properly
+      if (typeof jQuery === 'undefined') {
+        console.error('jQuery is not loaded properly');
+      } else {
+        console.log('jQuery loaded successfully');
+      }
+    
+      // Ensure Bootstrap's JavaScript is loaded
+      if (typeof $().emulateTransitionEnd === 'undefined') {
+        console.error('Bootstrap JavaScript is not loaded properly');
+      } else {
+        console.log('Bootstrap JavaScript loaded successfully');
+      }
+    
+      // Add event listener to prevent default behavior if needed
+      $('.navbar-toggle').on('click', function(event) {
+        event.preventDefault();
+      });
+    </script>
 </body>
 
 </html>
